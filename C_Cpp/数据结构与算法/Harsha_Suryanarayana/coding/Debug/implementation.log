@@ -1,0 +1,12 @@
+﻿生成启动时间为 2022/2/1 16:03:19。
+     1>项目“C:\Users\EZChe\Desktop\KeepStudy\C_C++\数据结构与算法\Harsha_Suryanarayana\implementation\implementation.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\EZChe\Desktop\KeepStudy\C_C++\数据结构与算法\Harsha_Suryanarayana\implementation\Debug\implementation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\EZChe\Desktop\KeepStudy\C_C++\数据结构与算法\Harsha_Suryanarayana\implementation\Debug\implementation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\EZChe\Desktop\KeepStudy\C_C++\数据结构与算法\Harsha_Suryanarayana\implementation\Debug\implementation.lib" /MACHINE:X86 Debug\stack_arrayBased.obj
+         Debug\stack_arrayBased_OOP.obj
+     1>stack_arrayBased_OOP.obj : error LNK2005: _main 已经在 stack_arrayBased.obj 中定义
+     1>C:\Users\EZChe\Desktop\KeepStudy\C_C++\数据结构与算法\Harsha_Suryanarayana\implementation\Debug\implementation.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“C:\Users\EZChe\Desktop\KeepStudy\C_C++\数据结构与算法\Harsha_Suryanarayana\implementation\implementation.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.92
