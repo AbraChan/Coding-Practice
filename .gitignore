@@ -18,8 +18,9 @@
 /Tensorflow/TF2/tf2_Core_2_guide/2 Keras/path_to_my_model/
 /Tensorflow/TF2/tf2_Core_2_guide/2 Keras/save_model/
 /Tensorflow/TF2/tf2_Resources/TensorBoard/logs/
-*/log/
-*/logs/
-*/tmp/
-*/dogs_and_cats_yamnet/
-*/titanic.tfsnap/
+**/log/
+**/logs/
+**/tmp/
+**/dogs_and_cats_yamnet/
+**/titanic.tfsnap/
+.ogv
