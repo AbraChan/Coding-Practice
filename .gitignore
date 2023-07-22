@@ -1,3 +1,4 @@
 .ipynb_checkpoints
+*.mhtml
 /PyTorch/1 Tutorials/data/
 /PyTorch/1 Tutorials/model_weights/
