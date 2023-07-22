@@ -2,3 +2,17 @@
 *.mhtml
 /PyTorch/1 Tutorials/data/
 /PyTorch/1 Tutorials/model_weights/
+/Tensorflow/TF2/tf2_Core_1_tutorials/2 Advanced/2-3 Images/models/
+*/log/
+*/logs/
+*/tmp/
+*/models/
+*/saved_model/
+*/training_checkpoints/
+*/checkpoints/
+*/dogs_and_cats_yamnet/
+*/my_dir/
+*/training_1/
+*/training_2/
+*/test/
+*/titanic.tfsnap/
