@@ -9,13 +9,13 @@
 <br>
 
 ## 笔记目录
-* 1 <a href="https://abrachan.github.io/Coding-Practice/C_Cpp/数据结构与算法/Harsha_Suryanarayana/LinkedList.pdf" style="text-decoration:none">1_LinkedList</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* 1 <a href="https://abrachan.github.io/Coding-Practice/C_Cpp/数据结构与算法/Harsha_Suryanarayana/LinkedList.pdf" style="text-decoration:none">1_LinkedList</a> &ensp; **(**<a href="https://kdocs.cn/l/ckvxGpVjTf3D" style="text-decoration:none">ppt原文件</a>**)**
 
-* 2 <a href="https://abrachan.github.io/Coding-Practice/C_Cpp/数据结构与算法/Harsha_Suryanarayana/Stack.pdf" style="text-decoration:none">2_Stack</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* 2 <a href="https://abrachan.github.io/Coding-Practice/C_Cpp/数据结构与算法/Harsha_Suryanarayana/Stack.pdf" style="text-decoration:none">2_Stack</a> &ensp; **(**<a href="https://kdocs.cn/l/cuaBPqr3OHy8" style="text-decoration:none">ppt原文件</a>**)**
 
-* 3 <a href="https://abrachan.github.io/Coding-Practice/C_Cpp/数据结构与算法/Harsha_Suryanarayana/Queue.pdf" style="text-decoration:none">3_Queue</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* 3 <a href="https://abrachan.github.io/Coding-Practice/C_Cpp/数据结构与算法/Harsha_Suryanarayana/Queue.pdf" style="text-decoration:none">3_Queue</a> &ensp; **(**<a href="https://kdocs.cn/l/crNAPXKKvtny" style="text-decoration:none">ppt原文件</a>**)**
 
-* 4 <a href="https://abrachan.github.io/Coding-Practice/C_Cpp/数据结构与算法/Harsha_Suryanarayana/Tree.pdf" style="text-decoration:none">4_Tree</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* 4 <a href="https://abrachan.github.io/Coding-Practice/C_Cpp/数据结构与算法/Harsha_Suryanarayana/Tree.pdf" style="text-decoration:none">4_Tree</a> &ensp; **(**<a href="https://kdocs.cn/l/ctIrAjSmlDev" style="text-decoration:none">ppt原文件</a>**)**
 
 <br>
 
