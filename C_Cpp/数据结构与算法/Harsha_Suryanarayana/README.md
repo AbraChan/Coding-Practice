@@ -1,5 +1,5 @@
 ## 说明
-1. 印度的顶尖程序员Harsha Suryanarayana为你图文讲解数据结构。B站视频链接：<a href="https://www.bilibili.com/video/BV1Fv4y1f7T1/" style="text-decoration:none">【强烈推荐】深入浅出数据结构 - 顶尖程序员图文讲解</a>
+1. 印度的顶尖程序员 **Harsha Suryanarayana** 为你图文讲解数据结构。B站视频链接：<a href="https://www.bilibili.com/video/BV1Fv4y1f7T1/" style="text-decoration:none">【强烈推荐】深入浅出数据结构 - 顶尖程序员图文讲解</a>
 
 2. 子文件夹 `coding/` 里的是本人跟着视频学习自己写的代码。
 
