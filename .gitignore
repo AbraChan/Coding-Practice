@@ -20,7 +20,9 @@
 /Tensorflow/TF2/tf2_Resources/TensorBoard/logs/
 **/log/
 **/logs/
+**/save/
 **/tmp/
 **/dogs_and_cats_yamnet/
+**/test_data/
 **/titanic.tfsnap/
-.ogv
+*.ogv
