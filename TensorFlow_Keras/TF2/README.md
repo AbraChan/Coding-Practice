@@ -7,7 +7,7 @@
 
 ## <a href="https://www.tensorflow.org/" style="text-decoration:none">TensorFlow 官网</a>
 
-### ① API: <a href="https://www.tensorflow.org/versions" style="text-decoration:none">TensorFlow API Versions</a>
+### API: <a href="https://www.tensorflow.org/versions" style="text-decoration:none">TensorFlow API Versions</a>
 * **TensorFlow**
 	* <a href="https://www.tensorflow.org/api_docs" style="text-decoration:none">Overview</a>
 	* <a href="https://www.tensorflow.org/api_docs/python/tf" style="text-decoration:none">Python</a>
@@ -26,7 +26,7 @@
 <br>
 
 
-### ② Learn: <a href="https://www.tensorflow.org/learn" style="text-decoration:none">Introduction</a>
+### Learn: <a href="https://www.tensorflow.org/learn" style="text-decoration:none">Introduction</a>
 * **TensorFlow Core**
 	* <a href="https://www.tensorflow.org/overview" style="text-decoration:none">Overview</a>
 	* <a href="https://www.tensorflow.org/tutorials" style="text-decoration:none">Tutorials</a>
@@ -57,7 +57,7 @@
 <br>
 
 
-### ③ Resources
+### Resources
 * <a href="https://www.tensorflow.org/resources/models-datasets" style="text-decoration:none">**Models & datasets**</a>
 	* <a href="https://tfhub.dev/" style="text-decoration:none;color:magenta;">**TensorFlow Hub**</a>
 	* <a href="https://github.com/tensorflow/models/tree/master/official" style="text-decoration:none">Model Garden</a>
@@ -97,6 +97,6 @@
 <br>
 
 
-### ④ More
+### More
 * <a href="https://www.tensorflow.org/community" style="text-decoration:none">Community</a>
 * <a href="https://www.tensorflow.org/about" style="text-decoration:none">Why TensorFlow</a>
