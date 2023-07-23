@@ -15,7 +15,11 @@
 	* <a href="https://www.tensorflow.org/api_docs/java/org/tensorflow/package-summary" style="text-decoration:none">Java</a>
 	* <a href="https://www.tensorflow.org/api_docs/more" style="text-decoration:none">More</a>
 
-* 
+* <a href="https://js.tensorflow.org/api/latest/" style="text-decoration:none">TensorFlow.js</a>
+
+* <a href="https://www.tensorflow.org/lite/api_docs" style="text-decoration:none">TensorFlow Lite</a> `(同下方 Learn > For Mobile & Edge > API 网址一样)`
+
+* <a href="https://www.tensorflow.org/tfx/api_overview" style="text-decoration:none">TFX</a> `(同下方 Learn > For Production > API 网址一样)`
 
 
 
@@ -48,7 +52,6 @@
 	* <a href="https://www.tensorflow.org/tfx/guide" style="text-decoration:none">Guide</a>
 	* <a href="https://www.tensorflow.org/tfx/addons" style="text-decoration:none">TFX-Addons</a>
 	* <a href="https://www.tensorflow.org/tfx/api_overview" style="text-decoration:none">API</a>
-	* <a href="" style="text-decoration:none"></a>
 
 
 <br>
@@ -73,7 +76,7 @@
 	
 * <a href="https://www.tensorflow.org/resources/libraries-extensions" style="text-decoration:none">**Libraries & extensions**</a>
 	* <a href="https://www.tensorflow.org/decision_forests" style="text-decoration:none">**Decision Forests**</a>
-	* <a href="https://www.tensorflow.org/hub" style="text-decoration:none">**TensorFlow Hub**</a> `(和上面 Models & datasets 中的 TensorFlow Hub 网址不一样)`
+	* <a href="https://www.tensorflow.org/hub" style="text-decoration:none">**TensorFlow Hub**</a> `(和上面 Resources > Models & datasets > TensorFlow Hub 网址不一样)`
 	* <a href="https://www.tensorflow.org/probability" style="text-decoration:none">Probability</a>
 	* <a href="https://github.com/tensorflow/tensor2tensor" style="text-decoration:none">Tensor2Tensor</a>
 	* <a href="https://github.com/tensorflow/io" style="text-decoration:none">TensorFlow I/O</a>
@@ -89,3 +92,11 @@
 	* <a href="" style="text-decoration:none">...</a>
 
 * <a href="https://www.tensorflow.org/resources/recommendation-systems" style="text-decoration:none">**Recommendation Systems**</a>
+
+
+<br>
+
+
+### More
+* <a href="https://www.tensorflow.org/community" style="text-decoration:none">Community</a>
+* <a href="https://www.tensorflow.org/about" style="text-decoration:none">Why TensorFlow</a>
