@@ -4,9 +4,9 @@
 
 <br>
 
-Pytorch 官网：https://pytorch.org/docs/stable/index.html
-* Tutorials > `Welcome to PyTorch Tutorials`: https://pytorch.org/tutorials/
-* Docs > `PyTorch documentation`:<tab> https://pytorch.org/docs/stable/index.html
-* Docs > `Torchaudio Documentation`:</tab> https://pytorch.org/audio/stable/index.html
-* Docs > `torchtext`: https://pytorch.org/text/stable/index.html
-* Docs > `torchvision`: https://pytorch.org/vision/stable/index.html
+<a href="https://pytorch.org/docs/stable/index.html" style="text-decoration:none">Pytorch 官网</a
+* Tutorials > <a href="https://pytorch.org/tutorials/" style="text-decoration:none">Welcome to PyTorch Tutorials</a>
+* Docs > <a href="https://pytorch.org/docs/stable/index.html" style="text-decoration:none">PyTorch documentation</a>
+* Docs > <a href="https://pytorch.org/audio/stable/index.html" style="text-decoration:none">Torchaudio Documentation</a>
+* Docs > <a href="https://pytorch.org/text/stable/index.html" style="text-decoration:none">torchtext</a> 
+* Docs > <a href="https://pytorch.org/vision/stable/index.html" style="text-decoration:none">torchvision</a>
