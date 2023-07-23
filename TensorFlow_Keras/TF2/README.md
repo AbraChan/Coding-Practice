@@ -22,24 +22,24 @@
 <br>
 
 ### **Learn**: <a href="https://www.tensorflow.org/learn" style="text-decoration:none">Introduction</a>
-**TensorFlow Core**
-* <a href="https://www.tensorflow.org/overview" style="text-decoration:none">Overview</a>
-* <a href="https://www.tensorflow.org/tutorials" style="text-decoration:none">Tutorials</a>
-* <a href="https://www.tensorflow.org/guide" style="text-decoration:none">Guide</a>
-* <a href="https://www.tensorflow.org/guide/migrate" style="text-decoration:none">Migrate to TF2</a>
-* <a href="https://github.com/tensorflow/docs/tree/master/site/en/r1" style="text-decoration:none">TF1</a>
+* **TensorFlow Core**
+	* <a href="https://www.tensorflow.org/overview" style="text-decoration:none">Overview</a>
+	* <a href="https://www.tensorflow.org/tutorials" style="text-decoration:none">Tutorials</a>
+	* <a href="https://www.tensorflow.org/guide" style="text-decoration:none">Guide</a>
+	* <a href="https://www.tensorflow.org/guide/migrate" style="text-decoration:none">Migrate to TF2</a>
+	* <a href="https://github.com/tensorflow/docs/tree/master/site/en/r1" style="text-decoration:none">TF1</a>
 
-**For JavaScript**
+* **For JavaScript**
 
-**For Mobile & Edge**
-* <a href="https://www.tensorflow.org/lite" style="text-decoration:none">Overview</a>
-* <a href="https://www.tensorflow.org/lite/guide" style="text-decoration:none">Guide</a>
-* <a href="https://www.tensorflow.org/lite/android" style="text-decoration:none">Android</a>
-* <a href="https://www.tensorflow.org/lite/guide/ios" style="text-decoration:none">iOS</a>
-* <a href="https://www.tensorflow.org/lite/guide/python" style="text-decoration:none">Other Edge</a>
-* <a href="https://www.tensorflow.org/lite/models" style="text-decoration:none">Models</a>
-* <a href="https://www.tensorflow.org/lite/examples" style="text-decoration:none">Examples</a>
-* <a href="https://www.tensorflow.org/lite/api_docs" style="text-decoration:none">API</a>
+* **For Mobile & Edge**
+	* <a href="https://www.tensorflow.org/lite" style="text-decoration:none">Overview</a>
+	* <a href="https://www.tensorflow.org/lite/guide" style="text-decoration:none">Guide</a>
+	* <a href="https://www.tensorflow.org/lite/android" style="text-decoration:none">Android</a>
+	* <a href="https://www.tensorflow.org/lite/guide/ios" style="text-decoration:none">iOS</a>
+	* <a href="https://www.tensorflow.org/lite/guide/python" style="text-decoration:none">Other Edge</a>
+	* <a href="https://www.tensorflow.org/lite/models" style="text-decoration:none">Models</a>
+	* <a href="https://www.tensorflow.org/lite/examples" style="text-decoration:none">Examples</a>
+	* <a href="https://www.tensorflow.org/lite/api_docs" style="text-decoration:none">API</a>
 
 * <b>For Production</b>
 	* <a href="https://www.tensorflow.org/tfx" style="text-decoration:none">Overview</a>
@@ -65,7 +65,7 @@
 
 * <a href="https://www.tensorflow.org/resources/tools" style="text-decoration:none">**Tools**</a>
 	* <a href="https://colab.sandbox.google.com/notebooks/welcome.ipynb" style="text-decoration:none">Colab</a>
-	* <a href="https://www.tensorflow.org/tensorboard" style="text-decoration:none">TensorBoard</a>
+	* <a href="https://www.tensorflow.org/tensorboard" style="text-decoration:none">**TensorBoard**</a>
 	* <a href="" style="text-decoration:none">...</a>
 	
 * <a href="" style="text-decoration:none">****</a>
