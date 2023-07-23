@@ -6,7 +6,7 @@
 
 Pytorch 官网：https://pytorch.org/docs/stable/index.html
 * Tutorials > `Welcome to PyTorch Tutorials`: https://pytorch.org/tutorials/
-* Docs > `PyTorch documentation`:<t> https://pytorch.org/docs/stable/index.html
-* Docs > `Torchaudio Documentation`:</t> https://pytorch.org/audio/stable/index.html
+* Docs > `PyTorch documentation`:<tab> https://pytorch.org/docs/stable/index.html
+* Docs > `Torchaudio Documentation`:</tab> https://pytorch.org/audio/stable/index.html
 * Docs > `torchtext`: https://pytorch.org/text/stable/index.html
 * Docs > `torchvision`: https://pytorch.org/vision/stable/index.html
