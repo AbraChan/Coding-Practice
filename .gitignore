@@ -2,22 +2,22 @@
 *.mhtml
 /PyTorch/1 Tutorials/data/
 /PyTorch/1 Tutorials/model_weights/
-/Tensorflow/TF2/tf2_Core_1_tutorials/2 Advanced/2-3 Images/models/
-/Tensorflow/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/checkpoints/
-/Tensorflow/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/models/
-/Tensorflow/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/my_dir/
-/Tensorflow/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/training_1/
-/Tensorflow/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/training_2/
-/Tensorflow/TF2/tf2_Core_1_tutorials/1 Beginner/1-2 Load and preprocess data/test/
-/Tensorflow/TF2/tf2_Core_1_tutorials/2 Advanced/2-2 Distributed training/saved_model/
-/Tensorflow/TF2/tf2_Core_1_tutorials/2 Advanced/2-2 Distributed training/training_checkpoints/
-/Tensorflow/TF2/tf2_Core_2_guide/1 TensorFlow basics/save_model/
-/Tensorflow/TF2/tf2_Core_2_guide/2 Keras/ckpt/
-/Tensorflow/TF2/tf2_Core_2_guide/2 Keras/mymodel_1/
-/Tensorflow/TF2/tf2_Core_2_guide/2 Keras/mymodel_2/
-/Tensorflow/TF2/tf2_Core_2_guide/2 Keras/path_to_my_model/
-/Tensorflow/TF2/tf2_Core_2_guide/2 Keras/save_model/
-/Tensorflow/TF2/tf2_Resources/TensorBoard/logs/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/2 Advanced/2-3 Images/models/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/checkpoints/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/models/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/my_dir/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/training_1/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/1 Beginner/1-1 ML basics with Keras/training_2/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/1 Beginner/1-2 Load and preprocess data/test/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/2 Advanced/2-2 Distributed training/saved_model/
+/Tensorflow_Keras/TF2/tf2_Core_1_tutorials/2 Advanced/2-2 Distributed training/training_checkpoints/
+/Tensorflow_Keras/TF2/tf2_Core_2_guide/1 TensorFlow basics/save_model/
+/Tensorflow_Keras/TF2/tf2_Core_2_guide/2 Keras/ckpt/
+/Tensorflow_Keras/TF2/tf2_Core_2_guide/2 Keras/mymodel_1/
+/Tensorflow_Keras/TF2/tf2_Core_2_guide/2 Keras/mymodel_2/
+/Tensorflow_Keras/TF2/tf2_Core_2_guide/2 Keras/path_to_my_model/
+/Tensorflow_Keras/TF2/tf2_Core_2_guide/2 Keras/save_model/
+/Tensorflow_Keras/TF2/tf2_Resources/TensorBoard/logs/
 **/tkinter/
 **/log/
 **/logs/
