@@ -25,9 +25,9 @@
 	* <a href="https://www.tensorflow.org/guide/migrate" style="text-decoration:none">Migrate to TF2</a>
 	* <a href="https://github.com/tensorflow/docs/tree/master/site/en/r1" style="text-decoration:none">TF1</a>
 
-* For JavaScript: 
+* **For JavaScript**: 
 
-* For Mobile & Edge: 
+* **For Mobile & Edge**: 
 	* <a href="https://www.tensorflow.org/lite" style="text-decoration:none">Overview</a>
 	* <a href="https://www.tensorflow.org/lite/guide" style="text-decoration:none">Guide</a>
 	* <a href="https://www.tensorflow.org/lite/android" style="text-decoration:none">Android</a>
@@ -37,7 +37,7 @@
 	* <a href="https://www.tensorflow.org/lite/examples" style="text-decoration:none">Examples</a>
 	* <a href="https://www.tensorflow.org/lite/api_docs" style="text-decoration:none">API</a>
 
-* For Production:
+* <b>For Production</b>:
 	* <a href="https://www.tensorflow.org/tfx" style="text-decoration:none">Overview</a>
 	* <a href="https://www.tensorflow.org/tfx/tutorials" style="text-decoration:none">Tutorials</a>
 	* <a href="https://www.tensorflow.org/tfx/guide" style="text-decoration:none">Guide</a>
