@@ -23,3 +23,9 @@
 * TensorFlow Core: <a href="https://www.tensorflow.org/guide" style="text-decoration:none">Guide</a>
 * TensorFlow Core: <a href="https://www.tensorflow.org/guide/migrate" style="text-decoration:none">Migrate to TF2</a>
 * TensorFlow Core: <a href="https://github.com/tensorflow/docs/tree/master/site/en/r1" style="text-decoration:none">TF1</a>
+
+* For JavaScript: 
+
+<br>
+
+* For Mobile & Edge: 
