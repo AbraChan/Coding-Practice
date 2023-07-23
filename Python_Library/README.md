@@ -1,4 +1,4 @@
-# Coding-Practice
-主要是本人的 Kaggle 等项目代码，以及学习 Python、C/C++、Spark、SQL、Pytorch、Tensorflow、Keras、scikit-learn、xgboost、OpenCV、PIL、numpy、pandas、matplotlib、机器学习算法、深度学习算法、数据结构、图像处理算法等的代码。
+# 说明
+这个文件夹是本人学习相关 Python库 时的笔记和代码（主要是 .ipynb 格式）。
 
 
