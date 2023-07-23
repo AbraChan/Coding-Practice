@@ -53,7 +53,7 @@
 
 ### **Resources**
 * <a href="https://www.tensorflow.org/resources/models-datasets" style="text-decoration:none">**Models & datasets**</a>
-	* <a href="https://tfhub.dev/" style="text-decoration:none">TensorFlow Hub</a>
+	* <a href="https://tfhub.dev/" style="text-decoration:none;font-color:maroon;">**TensorFlow Hub**</a>
 	* <a href="https://github.com/tensorflow/models/tree/master/official" style="text-decoration:none">Model Garden</a>
 	* <a href="https://github.com/tensorflow/tfjs-models" style="text-decoration:none">TensorFlow.js models</a>
 	
