@@ -21,6 +21,7 @@
 
 <br>
 
+
 ### **Learn**: <a href="https://www.tensorflow.org/learn" style="text-decoration:none">Introduction</a>
 * **TensorFlow Core**
 	* <a href="https://www.tensorflow.org/overview" style="text-decoration:none">Overview</a>
@@ -49,7 +50,9 @@
 	* <a href="https://www.tensorflow.org/tfx/api_overview" style="text-decoration:none">API</a>
 	* <a href="" style="text-decoration:none"></a>
 
+
 <br>
+
 
 ### **Resources**
 * <a href="https://www.tensorflow.org/resources/models-datasets" style="text-decoration:none">**Models & datasets**</a>
@@ -68,22 +71,21 @@
 	* <a href="https://www.tensorflow.org/tensorboard" style="text-decoration:none;color:red;">**TensorBoard**</a>
 	* <a href="" style="text-decoration:none">...</a>
 	
-* <a href="" style="text-decoration:none">****</a>
-	* <a href="" style="text-decoration:none"></a>
-	* <a href="" style="text-decoration:none"></a>
-	* <a href="" style="text-decoration:none"></a>
+* <a href="https://www.tensorflow.org/resources/libraries-extensions" style="text-decoration:none">**Libraries & extensions**</a>
+	* <a href="https://www.tensorflow.org/decision_forests" style="text-decoration:none">**Decision Forests**</a>
+	* <a href="https://www.tensorflow.org/hub" style="text-decoration:none">**TensorFlow Hub**</a> `(和上面 Models & datasets 中的 TensorFlow Hub 网址不一样)`
+	* <a href="https://www.tensorflow.org/probability" style="text-decoration:none">Probability</a>
+	* <a href="https://github.com/tensorflow/tensor2tensor" style="text-decoration:none">Tensor2Tensor</a>
+	* <a href="https://github.com/tensorflow/io" style="text-decoration:none">TensorFlow I/O</a>
+	* <a href="https://www.tensorflow.org/quantum" style="text-decoration:none">TensorFlow Quantum</a>
+	* <a href="https://www.tensorflow.org/text" style="text-decoration:none">TensorFlow Text</a>
+	* <a href="" style="text-decoration:none">...</a>
 
-* <a href="" style="text-decoration:none">****</a>
-	* <a href="" style="text-decoration:none"></a>
-	* <a href="" style="text-decoration:none"></a>
-	* <a href="" style="text-decoration:none"></a>
+* <a href="https://www.tensorflow.org/certificate" style="text-decoration:none">**TensorFlow Certificate program**</a>
 
-* <a href="" style="text-decoration:none">****</a>
-	* <a href="" style="text-decoration:none"></a>
-	* <a href="" style="text-decoration:none"></a>
-	* <a href="" style="text-decoration:none"></a>
+* <a href="https://www.tensorflow.org/resources/learn-ml" style="text-decoration:none">**Learn ML**</a>
 
-* <a href="" style="text-decoration:none">****</a>
-	* <a href="" style="text-decoration:none"></a>
-	* <a href="" style="text-decoration:none"></a>
-	* <a href="" style="text-decoration:none"></a>
+* <a href="https://www.tensorflow.org/responsible_ai" style="text-decoration:none">**Responsible AI**</a>
+	* <a href="" style="text-decoration:none">...</a>
+
+* <a href="https://www.tensorflow.org/resources/recommendation-systems" style="text-decoration:none">**Recommendation Systems**</a>
